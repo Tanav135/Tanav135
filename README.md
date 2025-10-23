@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanav135
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science related courses
-- 💞️ I’m looking to collaborate on Data Visualisation with AI Projects 
+- 👀 I’m interested in Data Science and Software Engineering
+- 🌱 I’m currently learning Data Science and other related courses
+- 💞️ I’m looking to collaborate on Software development,Data Analytics with AI Projects 
 - 📫 How to reach me mail : tanavreddy135@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
